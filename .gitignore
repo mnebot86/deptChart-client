@@ -40,3 +40,7 @@ app-example
 
 # Environments
 .env
+
+# Native build folders
+ios/
+android/
